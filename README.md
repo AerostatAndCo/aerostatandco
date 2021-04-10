@@ -1,7 +1,6 @@
-# aerostatandco
-Welcome to Aerostat &amp; Co's Github
+# Welcome to Our Github
 
-Useful Links:
+Aerostat & Co is a design and enterprise architecture firm.
 
-1 [Our Github Website](https://aerostatandco.github.io/)
+1 [Github Website](https://aerostatandco.github.io/)
 
