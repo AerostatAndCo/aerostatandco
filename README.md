@@ -6,5 +6,7 @@ Aerostat & Co is a design and enterprise architecture firm.
 
 Projects:
 1 Inna Dominus
+
 2 LOCM
+
 3 The Binary Lawyer
