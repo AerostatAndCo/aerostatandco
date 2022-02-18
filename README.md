@@ -2,7 +2,7 @@
 
 Aerostat & Co is a design and enterprise architecture firm.
 
-[Website Version](https://aerostatandco.github.io/)
+[Website Version of Our Github (Jekkyl site)](https://aerostatandco.github.io/)
 
 Projects:
 
