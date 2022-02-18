@@ -1,8 +1,9 @@
-# Welcome to Our Github
+<p align="center">
+Welcome to Our Github
+ </p>
+Aerostat & Co is a design and enterprise architecture firm.
 
-## Aerostat & Co is a design and enterprise architecture firm.
-
-* [Website Version of Our Github (Jekkyl site)](https://aerostatandco.github.io/) *
+### If you would prefer to check out the [Website Version of Our Github (Jekkyl site)](https://aerostatandco.github.io/)
 
 # Projects:
 
